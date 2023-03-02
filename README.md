@@ -1,4 +1,4 @@
-## Hi there, I am Kaio Gabriel Souza Rozini👋
+## Hi there, I am Kaio Gabriel Souza Rozini 🤠
 
 <a href="https://https://github.com/KaioGabrielSouzaRozini">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaioGabrielSouzaRozini&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
