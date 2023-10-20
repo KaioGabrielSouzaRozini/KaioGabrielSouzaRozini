@@ -36,7 +36,8 @@
   </div>
 
 
-
+  ##Profile in codewar
+  https://www.codewars.com/users/KaioGabrielSouzaRozini
   
   ## My Portfólio
   https://oficial-portfolio-eight.vercel.app/
