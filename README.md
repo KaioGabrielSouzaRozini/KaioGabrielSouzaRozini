@@ -36,7 +36,7 @@
   </div>
 
 
-  ##Profile in codewar
+  ## Profile in codewar
   https://www.codewars.com/users/KaioGabrielSouzaRozini
   
   ## My Portfólio
